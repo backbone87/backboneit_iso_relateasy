@@ -77,7 +77,7 @@ class IsotopeRelateasyBackend extends Backend {
 		$varValue = deserialize($varValue, true);
 		
 		if(false !== $i = array_search($objDC->id, $varValue)) {
-			$varValue = array_splice($varValue, $i, 1);
+			array_splice($varValue, $i, 1);
 		}
 		
 		if($varValue) {
