@@ -3,7 +3,7 @@ isotope: Relateasy
 
 
 === Suchbegriffe
-isotope,shop,crossselling,related,products
+isotope,shop,crossselling,ecommerce,products
 
 
 === Teaser
