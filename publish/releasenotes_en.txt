@@ -1,0 +1,21 @@
+=== Titel
+isotope: Relateasy
+
+
+=== Suchbegriffe
+isotope,shop,crossselling,related,products
+
+
+=== Teaser
+Set related products when editing a product.
+
+
+=== Beschreibung
+<p>The avaiable categories can be configured per product type.</p>
+
+
+=== Freigabe-Notizen und Änderungs-Log
+
+
+=== Handbuch-Link
+https://github.com/backbone87/backboneit_iso_relateasy/issues

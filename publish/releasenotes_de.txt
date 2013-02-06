@@ -1,0 +1,22 @@
+=== Titel
+isotope: Relateasy
+
+
+=== Suchbegriffe
+isotope,shop,crossselling,verwandte,produkte
+
+
+=== Teaser
+Verwandte Produkte direkt beim editieren eines Produkts festlegen.
+
+
+=== Beschreibung
+<p>Bei den Produkttypen können die entsprechenden Kategorien ausgewählt werden
+für die verwandte Produkte gepflegt werden sollen.</p>
+
+
+=== Freigabe-Notizen und Änderungs-Log
+
+
+=== Handbuch-Link
+https://github.com/backbone87/backboneit_iso_relateasy/issues
