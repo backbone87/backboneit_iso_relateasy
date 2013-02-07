@@ -1,6 +1,6 @@
 <?php
 
-class IsotopeRelateasyBackend extends Backend {
+class IsotopeRelateasyBackend extends IsotopeBackend {
 	
 	public function hookLoadDataContainer($strTable) {
 		if(TL_MODE == 'FE' || $strTable != 'tl_iso_products') {
