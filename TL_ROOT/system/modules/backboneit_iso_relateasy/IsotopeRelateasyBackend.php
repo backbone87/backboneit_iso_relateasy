@@ -98,13 +98,4 @@ class IsotopeRelateasyBackend extends Backend {
 		parent::__construct();
 	}
 	
-	private static $objInstance;
-	
-	public static function getInstance() {
-		if(!isset(self::$objInstance)) {
-			self::$objInstance = new self();
-		}
-		return self::$objInstance;
-	}
-	
 }
