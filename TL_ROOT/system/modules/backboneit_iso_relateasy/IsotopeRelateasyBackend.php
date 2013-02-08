@@ -41,7 +41,7 @@ class IsotopeRelateasyBackend extends IsotopeBackend {
 		$arrFieldDCA['load_callback']['bbit_iso_relatt']= array('IsotopeRelateasyBackend', 'loadRelatedProducts');
 		$arrFieldDCA['save_callback']['bbit_iso_relatt']= array('IsotopeRelateasyBackend', 'saveRelatedProducts');
 
-		$arrFieldDCA['attributes']['legend']			= 'media_legend';
+		$arrFieldDCA['attributes']['legend']			= 'bbit_iso_relateasy_legend';
 		$arrFieldDCA['attributes']['customer_defined']	= false;
 		$arrFieldDCA['attributes']['variant_option']	= false;
 		$arrFieldDCA['attributes']['ajax_option']		= false;
